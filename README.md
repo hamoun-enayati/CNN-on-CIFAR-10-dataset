@@ -110,7 +110,7 @@ A sequential model is used, as follows:
 
  Non-trainable params: 0 (0.00 B)
 
-
-
+## 📈 Results
 The model is trained using 40 epochs with batch size = 64 and a callback with early stopping 
 with min_delta = 0.02 and patience = 3.
+<img width="547" height="413" alt="download" src="https://github.com/user-attachments/assets/4dadc307-0ec5-4e85-86e0-93270606cadc" />
