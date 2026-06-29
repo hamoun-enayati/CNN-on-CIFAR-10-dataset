@@ -4,13 +4,13 @@ CIFAR-10 datasets is a collection of 60,000 images and 10 classes, with each cla
 airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
 The dataset is divided into 50,000 training images and 10,000 test images.
 
-## Link to dataset:
+## 📄 Link to dataset:
 https://www.kaggle.com/c/cifar-10
 
-## Link to colab notebook:
+## 💻 Link to colab notebook:
 https://colab.research.google.com/drive/1gGyManhq4t8z0AJF3UhbG0ba2KCaoS0r#scrollTo=6uxgdkh7lXh4
 
-### The model
+## 🤖 The model
 A sequential model is used, as follows:
  Model: "sequential_1"
 <table style="border-collapse: collapse; width: 100%; font-family: monospace;">
