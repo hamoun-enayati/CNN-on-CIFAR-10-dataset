@@ -1,12 +1,16 @@
 # Overview
 I trained a convolutional neural network on CIFAR-10 Dataset
+
+<img width="735" height="913" alt="b73e1c192f3ee80e13ec11faa181f5ed" src="https://github.com/user-attachments/assets/39e6bcf5-c8d1-4035-920a-db8351ebed64" />
+<br>
+Image source: https://www.pinterest.com/pin/842736149067102241/
+<br>
+
+## 📄 Link to dataset:
+https://www.kaggle.com/c/cifar-10 <br>
 CIFAR-10 datasets is a collection of 60,000 images and 10 classes, with each class containing 6,000 images. The classes include:
 airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
 The dataset is divided into 50,000 training images and 10,000 test images.
-
-## 📄 Link to dataset:
-https://www.kaggle.com/c/cifar-10
-
 ## 💻 Link to colab notebook:
 https://colab.research.google.com/drive/1gGyManhq4t8z0AJF3UhbG0ba2KCaoS0r#scrollTo=6uxgdkh7lXh4
 
@@ -115,4 +119,5 @@ The model is trained using 40 epochs with batch size = 64 and a callback with ea
 with min_delta = 0.02 and patience = 3.
 <br>
 <img width="547" height="413" alt="download" src="https://github.com/user-attachments/assets/1ed72e6f-6ef2-4d8c-8bcc-a379483c9577" />
+
 
